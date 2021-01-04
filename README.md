@@ -28,4 +28,9 @@ There are two programs in these repo :-
 - You can check the morse through the Output text file and compare your results with it.
 - And also after encoding you can run the decoder to look up as how your input would look at real time when given through a Morse Embosser.  
 
+
+### Please Note that the encoder wil generate a text file as an output with the name <strong>Output.txt</strong> text file. That file will be taken from the decoder to produce output which shows us  how th input will look in real time.
+
+## The executable files have also been included with the code for better accessibility and compatibility.
+
 Any suggestions to improve this repo are welcome!
