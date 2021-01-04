@@ -6,10 +6,10 @@ There are two programs in these repo :-
 - This program will help you understand what is the output to its corresponding input.
 - Type in your input when you are ready.
 - Please let the program finish generating the output for a single character then type in another character.
-- At the end a text file will be generated to check if your morse code.
+- At the end a text file will be generated to check what your morse code will look at real time in the Morse embosser.
 
 ### 2 - Morse code decoder
-- This program will take in a text file which will be generated after teh executio of the morse_code_encoder program.
+- This program will take in a text file which will be generated after the execution of the morse_code_encoder program.
 - You can check your output which would be displayed after this program executes.
 
 # Warning :-
