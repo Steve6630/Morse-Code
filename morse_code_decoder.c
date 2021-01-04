@@ -14,7 +14,7 @@ void main()
     
     char str[6] = {0};
     char *str1[] = {"hello world"};
-    char c;
+    char c = 0;
     int esc=0,i=0;
     FILE *text;//Declaring FILE pointer.
     text = fopen("Output.txt","r");//Opening Output.txt file to read from it.  
