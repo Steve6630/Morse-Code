@@ -29,7 +29,7 @@ There are two programs in these repo :-
 - And also after encoding you can run the decoder to look up as how your input would look at real time when given through a Morse Embosser.  
 
 
-#### Please Note that the encoder will generate a text file as an output with the name <strong>Output.txt</strong> text file. That file will be taken from the decoder to produce output which shows us  how th input will look in real time.
+#### Please Note that the encoder will generate a text file as an output with the name Output.txt text file. That file will be taken from the decoder to produce output which shows us  how th input will look in real time.
 
 ## The executable files have also been included with the code for better accessibility and compatibility.
 
