@@ -14,7 +14,7 @@ There are two programs in these repo :-
 
 # Warning :-
 
-1) *, /, |, #, !, ", <, >, ~, `, _, ^, % are the special characters which are not supported ny this program.
+1) *, /, |, #, !, ", <, >, ~, `, _, ^, % are the special characters which are not supported by this program.
 
 2) Although morse code is written in capital letters this program will allow small letters to be taken as input, but the output code or decoder will change it to capital letters.
 
@@ -23,7 +23,9 @@ There are two programs in these repo :-
 ### Best way to use this repo :-
 
 - Please wait for the program to generate the output for the input chaaracter then move onward to the next character.
-- You will be able to hear the morse code produced in real time , so you can write down the morse code character by character.
+- You will be able to hear the morse code produced in real time , so you can write down the morse code in a notebook for futher comparison at the end character by character.
 - Once your encoding is done, press the "ESC" key to exit the program.
 - You can check the morse through the Output text file and compare your results with it.
 - And also after encoding you can run the decoder to look up as how your input would look at real time when given through a Morse Embosser.  
+
+Any suggestions to improve this repo are welcome!
