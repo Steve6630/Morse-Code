@@ -24,7 +24,7 @@ There are two programs in these repo :-
 
 - Please wait for the program to generate the output for the input chaaracter then move onward to the next character.
 - You will be able to hear the morse code produced in real time , so you can write down the morse code in a notebook for futher comparison at the end character by character.
-- Once your encoding is done, press the "ESC" key to exit the program.
+- Once your encoding is done, press the <strong>"ESC"</strong> key to exit the program.
 - You can check the morse through the Output text file and compare your results with it.
 - And also after encoding you can run the decoder to look up as how your input would look at real time when given through a Morse Embosser.  
 
